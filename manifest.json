@@ -1,13 +1,13 @@
 {
   "name": "新穎聚寶盆",
   "short_name": "聚寶盆",
-  "start_url": "/",
+  "start_url": "/wealth-app/",
   "display": "standalone",
   "background_color": "#FDF6E3",
   "theme_color": "#D35400",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "/wealth-app/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
